@@ -25,7 +25,7 @@ export function AppCount() {
   // console.log(`call App # ${useCallCount()} (useState) `);
   // const [count, setCounter] = useState(0);
 
-  // в случае использования useState, refresh и двойное обновление. console:
+  // в случае использования useAtom, refresh и двойное обновление. console:
   // call App # 1 (useAtom)
   // onRender 1001
   // useEffect 
