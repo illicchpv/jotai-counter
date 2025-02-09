@@ -6,7 +6,7 @@
 ```   
 
 
-  ### // в случае использования useState, refresh и двойное обновление. console:
+  ### // в случае использования useAtom, refresh и двойное обновление. console:
 ```  
    call App # 1 (useAtom)
    onRender 1001
